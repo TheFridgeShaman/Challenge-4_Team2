@@ -1,0 +1,1 @@
+java -jar IFCtoRDF-0.4-shaded.jar /models/asdasd.ifc /models/asdasd.ttl

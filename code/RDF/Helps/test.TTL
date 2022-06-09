@@ -1,0 +1,11 @@
+inst:Object1
+    ont:touches  inst:Object2 .
+
+inst:RelSpatial_1
+    rdf:hasSubject ifc:Object1 .
+
+inst:RelSpatial_1
+    rdf:hasObject ifc:Object2 .
+
+inst:RelSpatial_1
+    rdf:inContact express:true .
